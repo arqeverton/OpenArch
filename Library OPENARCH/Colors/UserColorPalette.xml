@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--  UserColors -->
+<ColorPalette>
+	<ColorPaletteName>Pantone Color Palette</ColorPaletteName>
+	<ColorList>
+		<Color><ColorName>100</ColorName><RGB>244,237,124</RGB></Color>
+		<Color><ColorName>101</ColorName><RGB>244,237,71</RGB></Color>
+		<Color><ColorName>102</ColorName><RGB>249,232,20</RGB></Color>
+		<Color><ColorName>103</ColorName><RGB>198,173,15</RGB></Color>
+		<Color><ColorName>104</ColorName><RGB>173,155,12</RGB></Color>
+		<Color><ColorName>105</ColorName><RGB>130,117,15</RGB></Color>
+		<Color><ColorName>106</ColorName><RGB>247,232,89</RGB></Color>
+		<Color><ColorName>107</ColorName><RGB>249,229,38</RGB></Color>
+		<Color><ColorName>108</ColorName><RGB>249,221,22</RGB></Color>
+		<Color><ColorName>109</ColorName><RGB>249,214,22</RGB></Color>
+		<Color><ColorName>110</ColorName><RGB>216,181,17</RGB></Color>
+		<Color><ColorName>111</ColorName><RGB>170,147,10</RGB></Color>
+		<Color><ColorName>112</ColorName><RGB>153,132,10</RGB></Color>
+		<Color><ColorName>113</ColorName><RGB>249,229,91</RGB></Color>
+		<Color><ColorName>114</ColorName><RGB>249,226,76</RGB></Color>
+		<Color><ColorName>115</ColorName><RGB>249,224,76</RGB></Color>
+		<Color><ColorName>116</ColorName><RGB>252,209,22</RGB></Color>
+		<Color><ColorName>116 2x</ColorName><RGB>247,181,12</RGB></Color>
+		<Color><ColorName>117</ColorName><RGB>198,160,12</RGB></Color>
+		<Color><ColorName>118</ColorName><RGB>170,142,10</RGB></Color>
+		<Color><ColorName>119</ColorName><RGB>137,119,25</RGB></Color>
+		<Color><ColorName>120</ColorName><RGB>249,226,127</RGB></Color>
+		<Color><ColorName>1205</ColorName><RGB>247,232,170</RGB></Color>
+		<Color><ColorName>121</ColorName><RGB>249,224,112</RGB></Color>
+		<Color><ColorName>1215</ColorName><RGB>249,224,140</RGB></Color>
+	</ColorList>
+</ColorPalette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--  Sharwin Williams Colors -->
+<ColorPalette>
+	<Name>Sharwin Williams Color Palette</Name>
+	<ColorList>
+		<Color><ColorName>SW 0001 - Mulberry Silk</ColorName><RGB>149,132,125</RGB></Color>
+		<Color><ColorName>SW 0002 - Chelsea Mauve</ColorName><RGB>189,176,166</RGB></Color>
+		<Color><ColorName>SW 0003 - Cabbage Rose</ColorName><RGB>199,171,159</RGB></Color>
+		<Color><ColorName>SW 0004 - Rose Brocade</ColorName><RGB>155,127,128</RGB></Color>
+		<Color><ColorName>SW 0005 - Deepest Mauve</ColorName><RGB>108,100,100</RGB></Color>
+		<Color><ColorName>SW 0006 - Toile Red</ColorName><RGB>140,110,106</RGB></Color>
+		<Color><ColorName>SW 0007 - Decorous Amber</ColorName><RGB>173,136,115</RGB></Color>
+		<Color><ColorName>SW 0008 - Cajun Red</ColorName><RGB>142,106,94</RGB></Color>
+		<Color><ColorName>SW 0009 - Eastlake Gold</ColorName><RGB>192,157,118</RGB></Color>
+		<Color><ColorName>SW 0010 - Wickerwork</ColorName><RGB>192,169,144</RGB></Color>
+		<Color><ColorName>SW 0011 - Crewel Tan</ColorName><RGB>204,194,167</RGB></Color>
+		<Color><ColorName>SW 0012 - Empire Gold</ColorName><RGB>193,170,129</RGB></Color>
+		<Color><ColorName>SW 0013 - Majolica Green</ColorName><RGB>175,181,155</RGB></Color>
+	</ColorList>
+</ColorPalette>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--  Basic & Open ARCK Colors  -->
+<ColorPalette>
+	<ColorPaletteName>Basic Colors</ColorPaletteName>
+	<ColorList>
+		<Color><ColorName>clArckBlack</ColorName><RGB>0,0,0</RGB></Color>
+		<Color><ColorName>clArckWhite</ColorName><RGB>255,255,255</RGB></Color>
+		<Color><ColorName>clArckRed</ColorName><RGB>255,0,0</RGB></Color>
+		<Color><ColorName>clArckYelow</ColorName><RGB>255,255,0</RGB></Color>
+		<Color><ColorName>clArckGreen</ColorName><RGB>0,255,0</RGB></Color>
+		<Color><ColorName>clArckBlue</ColorName><RGB>0,0,255</RGB></Color>
+		<Color><ColorName>clArckMagenta</ColorName><RGB>255,0,255</RGB></Color>
+		<Color><ColorName>clArckHeavyGrey</ColorName><RGB>162,162,162</RGB></Color>
+		<Color><ColorName>clArckLightGrey</ColorName><RGB>239,239,239</RGB></Color>
+		<Color><ColorName>clArckOrange</ColorName><RGB>255,64,0</RGB></Color>
+		<Color><ColorName>clArckGold</ColorName><RGB>229,172,0</RGB></Color>
+		<Color><ColorName>clArckOlive</ColorName><RGB>138,184,0</RGB></Color>
+		<Color><ColorName>clArckPurple</ColorName><RGB>125,0,250</RGB></Color>
+		<Color><ColorName>clArckNavy</ColorName><RGB>0,0,128</RGB></Color>
+
+		<Color><ColorName>clArckGrey5</ColorName><RGB>243,243,243</RGB></Color>
+		<Color><ColorName>clArckGrey10</ColorName><RGB>230,225,221</RGB></Color>
+		<Color><ColorName>clArckGrey15</ColorName><RGB>217,217,217</RGB></Color>
+		<Color><ColorName>clArckGrey20</ColorName><RGB>204,204,207</RGB></Color>
+		<Color><ColorName>clArckGrey25</ColorName><RGB>192,192,192</RGB></Color>
+		<Color><ColorName>clArckGrey30</ColorName><RGB>179,179,179</RGB></Color>
+		<Color><ColorName>clArckGrey35</ColorName><RGB>166,166,166</RGB></Color>
+		<Color><ColorName>clArckGrey40</ColorName><RGB>153,153,153</RGB></Color>
+		<Color><ColorName>clArckGrey45</ColorName><RGB>140,140,140</RGB></Color>
+		<Color><ColorName>clArckGrey50</ColorName><RGB>128,128,128</RGB></Color>
+		<Color><ColorName>clArckGrey60</ColorName><RGB>102,102,102</RGB></Color>
+		<Color><ColorName>clArckGrey70</ColorName><RGB>76,76,76</RGB></Color>
+		<Color><ColorName>clArckGrey80</ColorName><RGB>51,51,51</RGB></Color>
+		<Color><ColorName>clArckGrey90</ColorName><RGB>25,25,25</RGB></Color>
+
+		<Color><ColorName>clArckWarmGrey5</ColorName><RGB>243,238,233</RGB></Color>
+		<Color><ColorName>clArckWarmGrey10</ColorName><RGB>230,225,221</RGB></Color>
+		<Color><ColorName>clArckWarmGrey15</ColorName><RGB>217,211,204</RGB></Color>	
+		<Color><ColorName>clArckWarmGrey20</ColorName><RGB>205,198,192</RGB></Color>	
+		<Color><ColorName>clArckWarmGrey25</ColorName><RGB>192,186,180</RGB></Color>	
+		<Color><ColorName>clArckWarmGrey30</ColorName><RGB>176,174,168</RGB></Color>	
+		<Color><ColorName>clArckWarmGrey35</ColorName><RGB>166,161,156</RGB></Color>	
+		<Color><ColorName>clArckWarmGrey40</ColorName><RGB>151,149,144</RGB></Color>	
+		<Color><ColorName>clArckWarmGrey45</ColorName><RGB>140,136,132</RGB></Color>	
+		<Color><ColorName>clArckWarmGrey50</ColorName><RGB>128,124,120</RGB></Color>	
+		<Color><ColorName>clArckWarmGrey60</ColorName><RGB>102,99,96</RGB></Color>
+		<Color><ColorName>clArckWarmGrey70</ColorName><RGB>76,74,72</RGB></Color>
+		<Color><ColorName>clArckWarmGrey80</ColorName><RGB>51,49,48</RGB></Color>
+		<Color><ColorName>clArckWarmGrey90</ColorName><RGB>25,24,24</RGB></Color>	
+
+		<Color><ColorName>clArckColdGrey5</ColorName><RGB>233,243,243</RGB></Color>
+		<Color><ColorName>clArckColdGrey10</ColorName><RGB>220,230,230</RGB></Color>
+		<Color><ColorName>clArckColdGrey15</ColorName><RGB>204,217,217</RGB></Color>
+		<Color><ColorName>clArckColdGrey20</ColorName><RGB>192,204,204</RGB></Color>
+		<Color><ColorName>clArckColdGrey25</ColorName><RGB>180,192,192</RGB></Color>
+		<Color><ColorName>clArckColdGrey30</ColorName><RGB>168,179,179</RGB></Color>
+		<Color><ColorName>clArckColdGrey35</ColorName><RGB>156,166,166</RGB></Color>
+		<Color><ColorName>clArckColdGrey40</ColorName><RGB>144,153,153</RGB></Color>
+		<Color><ColorName>clArckColdGrey45</ColorName><RGB>132,140,140</RGB></Color>
+		<Color><ColorName>clArckColdGrey50</ColorName><RGB>120,128,128</RGB></Color>
+		<Color><ColorName>clArckColdGrey60</ColorName><RGB>96,102,102</RGB></Color>
+		<Color><ColorName>clArckColdGrey70</ColorName><RGB>72,76,76</RGB></Color>
+		<Color><ColorName>clArckColdGrey80</ColorName><RGB>48,51,51</RGB></Color>
+		<Color><ColorName>clArckColdGrey90</ColorName><RGB>24,25,25</RGB></Color>
+
+		<Color><ColorName>clArckUltraViolet5</ColorName><RGB>230,207,216</RGB></Color>
+		<Color><ColorName>clArckUltraViolet10</ColorName><RGB>217,175,192</RGB></Color>	
+		<Color><ColorName>clArckUltraViolet15</ColorName><RGB>205,146,169</RGB></Color>	
+		<Color><ColorName>clArckUltraViolet20</ColorName><RGB>192,119,147</RGB></Color>	
+		<Color><ColorName>clArckUltraViolet25</ColorName><RGB>179,94,127</RGB></Color>	
+		<Color><ColorName>clArckUltraViolet30</ColorName><RGB>167,72,108</RGB></Color>	
+		<Color><ColorName>clArckUltraViolet35</ColorName><RGB>154,52,90</RGB></Color>	
+		<Color><ColorName>clArckUltraViolet40</ColorName><RGB>142,34,74</RGB></Color>	
+		<Color><ColorName>clArckUltraViolet45</ColorName><RGB>129,19,60</RGB></Color>	
+		<Color><ColorName>clArckUltraViolet50</ColorName><RGB>119,6,47</RGB></Color>	
+
+		<Color><ColorName>clArckBlueMarine5</ColorName><RGB>207,221,230</RGB></Color>	
+		<Color><ColorName>clArckBlueMarine10</ColorName><RGB>175,200,217</RGB></Color>	
+		<Color><ColorName>clArckBlueMarine15</ColorName><RGB>145,181,205</RGB></Color>	
+		<Color><ColorName>clArckBlueMarine20</ColorName><RGB>118,162,192</RGB></Color>	
+		<Color><ColorName>clArckBlueMarine25</ColorName><RGB>93,144,179</RGB></Color>
+		<Color><ColorName>clArckBlueMarine30</ColorName><RGB>70,128,167</RGB></Color>	
+		<Color><ColorName>clArckBlueMarine35</ColorName><RGB>50,112,154</RGB></Color>	
+		<Color><ColorName>clArckBlueMarine40</ColorName><RGB>33,98,142</RGB></Color>	
+		<Color><ColorName>clArckBlueMarine45</ColorName><RGB>17,84,129</RGB></Color>	
+		<Color><ColorName>clArckBlueMarine50</ColorName><RGB>5,71,116</RGB></Color>		
+	</ColorList>
+</ColorPalette>
